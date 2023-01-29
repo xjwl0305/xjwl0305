@@ -24,9 +24,8 @@ Framework & Languages
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 </p>
-
+<br>
 Tools
-
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
