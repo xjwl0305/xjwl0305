@@ -1,5 +1,5 @@
 
-<img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
+<img align="right" height="560px" width="700px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
 
 ### DevOps & Back-end Engineer YOON-IN-SEOK
 #### I'm studying traffic handling solutions mainly.
