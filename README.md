@@ -20,8 +20,6 @@ Skills: Node JS / JS /python / spring boot / docker
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xjwl0305&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xjwl0305)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=xjwl0305)  
 
 ![Profile views](https://gpvc.arturio.dev/xjwl0305)  
