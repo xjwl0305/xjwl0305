@@ -53,7 +53,7 @@ It is my style to write neat and reasonable code.
 
 <p>
  Connection &nbsp : &nbsp
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=xjwl0305@gmail.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=YOON-IN-SEOK&logoColor=white"/>
 </p>
