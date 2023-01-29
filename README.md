@@ -1,4 +1,4 @@
-### Hi there 👋, DevOps & Back-end Engineer YOON-IN-SEOK
+### DevOps & Back-end Engineer YOON-IN-SEOK
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
