@@ -8,7 +8,7 @@ It is my style to write neat and reasonable code.
 
 ## 💪Skills
 
-Framework & Languages
+# Framework & Languages
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -26,7 +26,7 @@ Framework & Languages
 </p>
 <br>
 
-Tools
+# Tools
 <br>
 
 <p>
