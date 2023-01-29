@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=xjwl0305@gmail.com&logoColor=white"/>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=윤인석&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=&logoColor=white"/>
 
 <img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
 
