@@ -5,13 +5,17 @@
 I enjoy snowboarding and climbing.. 🏂🧗
 It is my development direction to code for a reason.
 
-Skill
+Skills:
+
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
 
-Skills: Node JS / JS /python / spring boot / docker
+Languege:
+
 
 - 🔭 I’m currently working on NoriSpace. 
 - 🌱 I’m currently learning DevOps. 
