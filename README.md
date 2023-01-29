@@ -30,7 +30,15 @@ Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+ 
 </p>
+<p>
+ <img src="https://img.shields.io/badge/Amazon ECS-569A31?style=flat-square&logo=Amazon ECS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white"/>
+ </p>
 
 - 🔭 I’m currently working on NoriSpace. 
 - 🌱 I’m currently learning DevOps. 
