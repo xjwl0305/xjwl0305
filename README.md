@@ -54,12 +54,12 @@ It is my style to write neat and reasonable code.
 <br>
 <p>
  Connection &nbsp : &nbsp
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/xjwl0305@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
  <a href="https://velog.io/@xjwl0305">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/%EC%9D%B8%EC%84%9D-%EC%9C%A4-3589a5242/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=YOON-IN-SEOK&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOONINSEOK-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
  </a>
 </p>
 <!--
