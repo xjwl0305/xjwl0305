@@ -54,7 +54,7 @@ It is my style to write neat and reasonable code.
 <p>
  Connection &nbsp : &nbsp
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=&logoColor=white"/>
- <a href="[http://melonicedlatte.com/](https://velog.io/@xjwl0305)">
+ <a href="https://velog.io/@xjwl0305">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=YOON-IN-SEOK&logoColor=white"/>
