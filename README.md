@@ -44,7 +44,7 @@ It is my style to write neat and reasonable code.
 
 - 🔭 I’m currently working on NoriSpace. 
 - 🌱 I’m currently learning DevOps. 
-
+- 💬 Ask me about ...
 
 <!--
 **xjwl0305/xjwl0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
