@@ -1,9 +1,3 @@
-<p>
- Connection &nbsp : &nbsp
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=xjwl0305@gmail.com&logoColor=white"/>
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=YOONINSEOK&logoColor=white"/>
-</p>
 
 <img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
 
@@ -57,6 +51,12 @@ It is my style to write neat and reasonable code.
 - 🌱 I’m currently learning DevOps. 
 - 💬 Ask me about Back-end solution <xjwl0305@gmail.com> 👈
 
+<p>
+ Connection &nbsp : &nbsp
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=xjwl0305@gmail.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=YOON-IN-SEOK&logoColor=white"/>
+</p>
 <!--
 **xjwl0305/xjwl0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
