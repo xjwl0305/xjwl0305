@@ -6,7 +6,9 @@ I enjoy snowboarding and climbing.. 🏂🧗
 
 It is my style to write neat and reasonable code.
 
-💪Skills:
+## 💪Skills
+<br>
+Framework & Languages
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -15,7 +17,7 @@ It is my style to write neat and reasonable code.
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
 
-Languege:
+Tools
 
 
 - 🔭 I’m currently working on NoriSpace. 
