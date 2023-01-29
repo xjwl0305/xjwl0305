@@ -8,7 +8,7 @@ It is my style to write neat and reasonable code.
 
 ## 💪Skills
 
-# Framework & Languages
+#### Framework & Languages
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -24,10 +24,10 @@ It is my style to write neat and reasonable code.
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 </p>
-<br>
 
-# Tools
-<br>
+
+#### Tools
+
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
