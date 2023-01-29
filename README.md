@@ -35,7 +35,7 @@ Tools
  
 </p>
 <p>
- <img src="https://img.shields.io/badge/Amazon ECS-569A31?style=flat-square&logo=Amazon ECS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white"/>
  </p>
