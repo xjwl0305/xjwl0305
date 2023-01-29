@@ -3,7 +3,8 @@
 
 
 I enjoy snowboarding and climbing.. 🏂🧗
-It is my development direction to code for a reason.
+
+It is my style to write neat and reasonable code.
 
 Skills:
 
