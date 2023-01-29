@@ -2,13 +2,13 @@
 <img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
 
 ### ⭐DevOps & Back-end Engineer YOON-IN-SEOK
-#### I'm studying traffic handling solutions mainly.
+- I'm studying traffic handling solutions mainly.
 
 
 
-I enjoy snowboarding and climbing.. 🏂🧗
+- I enjoy snowboarding and climbing.. 🏂🧗
 
-It is my style to write neat and reasonable code.
+- It is my style to write neat and reasonable code.
 
 ### 💪Skills
 
