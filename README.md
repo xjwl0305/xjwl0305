@@ -1,7 +1,7 @@
 ### DevOps & Back-end Engineer YOON-IN-SEOK
 #### I'm studying traffic handling solutions mainly.
 
-
+<img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
 I enjoy snowboarding and climbing.. 🏂🧗
 
 It is my style to write neat and reasonable code.
@@ -42,7 +42,7 @@ It is my style to write neat and reasonable code.
  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white"/>
  </p>
 
-<img align="right" height="560px" src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/vaporwave-aesthetic.gif"/>
+
 - 🔭 I’m currently working on NoriSpace. 
 - 🌱 I’m currently learning DevOps. 
 - 💬 Ask me about Back-end solution <xjwl0305@gmail.com> 👈
