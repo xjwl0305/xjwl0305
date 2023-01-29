@@ -6,7 +6,7 @@ I enjoy snowboarding and climbing.. 🏂🧗
 
 It is my style to write neat and reasonable code.
 
-Skills:
+💪Skills:
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
